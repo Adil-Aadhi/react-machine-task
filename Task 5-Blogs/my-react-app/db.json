@@ -1,0 +1,44 @@
+{
+  "Blogs": [
+    {
+      "id": "a101",
+      "title": "The Beauty of Nature",
+      "body": "A reflection on how nature's vast landscapes and peaceful environment help rejuvenate our mind and spirit. It encourages spending time outdoors to connect with the natural world."
+    },
+    {
+      "id": "b202",
+      "title": "Technology in 2025",
+      "body": "An overview of emerging technologies expected to shape our future, such as AI, IoT, and renewable energy, and how they’ll impact everyday life and work."
+    },
+    {
+      "id": "c303",
+      "title": "Healthy Living Tips",
+      "body": "Practical advice on maintaining health through balanced nutrition, regular physical activity, and mental well-being practices"
+    },
+    {
+      "id": "d404",
+      "title": "Travel Diaries: Japan",
+      "body": "A personal travelogue describing the cultural richness, cuisine, and scenic beauty experienced during a trip to Japan."
+    },
+    {
+      "id": "e505",
+      "title": "Learning React",
+      "body": "How to start with React.js and build dynamic web applications.An introductory guide to React.js, covering basic concepts and how beginners can start building interactive web apps."
+    },
+    {
+      "id": "f606",
+      "title": "Mindfulness and Meditation",
+      "body": "Techniques and benefits of practicing mindfulness in everyday life.Explains mindfulness techniques and meditation practices that help reduce stress and improve focus and emotional balance."
+    },
+    {
+      "id": "g707",
+      "title": "Cooking with Spices",
+      "body": "Enhance your meals with a variety of spices and their health benefits.Tips on using different spices to enhance flavor and nutrition in cooking, along with their health benefits."
+    },
+    {
+      "id": "h808",
+      "title": "The Future of Education",
+      "body": "How online learning and AI will transform education systems worldwide.Discusses how advancements like online platforms and AI tutoring are transforming traditional education into more accessible, personalized learning experiences."
+    }
+  ]
+}
